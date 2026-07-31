@@ -39,24 +39,6 @@ The dataset includes customer-level information such as:
 | `InternetService` | Type of internet service |
 | `Churn` | Target variable (Yes/No) |
 
-## 🚀 How to Use
-
-1. Clone this repository
-```bash
-git clone https://github.com/yourusername/telco-churn-prediction.git
-cd telco-churn-prediction
-```
-
-2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the notebook
-```bash
-jupyter notebook churn_prediction.ipynb
-```
-
 
 
 **Author:** Sumit Raj  
